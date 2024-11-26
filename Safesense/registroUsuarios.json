@@ -1,0 +1,59 @@
+[
+  {
+    "nombre": "Damian",
+    "apellidos": "p",
+    "usuario": "dpmVigilante",
+    "contraseña": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "cargo": "Encargado de vigilancia",
+    "Ubicaciones": [
+      "Entrada"
+    ]
+  },
+  {
+    "nombre": "damian",
+    "apellidos": "perez",
+    "usuario": "dpmTrabajo",
+    "contraseña": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "cargo": "Trabajador",
+    "Ubicaciones": [
+      "Entrada",
+      "Zona 3"
+    ]
+  },
+  {
+    "nombre": "Dam",
+    "apellidos": "Perz",
+    "usuario": "dpmSeguridad",
+    "contraseña": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "cargo": "Personal de seguridad",
+    "Ubicaciones": []
+  },
+  {
+    "nombre": " adfsdf",
+    "apellidos": "fsad",
+    "usuario": "ikerTrabajador",
+    "contraseña": "494414ded24da13c451b13b424928821351c78fce49f93d9e1b55f102790c206",
+    "cargo": "Trabajador"
+  },
+  {
+    "nombre": "afsd",
+    "apellidos": "fdsa",
+    "usuario": "ikerEncargado",
+    "contraseña": "494414ded24da13c451b13b424928821351c78fce49f93d9e1b55f102790c206",
+    "cargo": "Encargado de vigilancia"
+  },
+  {
+    "nombre": "dsfasdfs",
+    "apellidos": "fdsf",
+    "usuario": "ikerSeguridad",
+    "contraseña": "494414ded24da13c451b13b424928821351c78fce49f93d9e1b55f102790c206",
+    "cargo": "Personal de seguridad"
+  },
+  {
+    "nombre": "Dami",
+    "apellidos": "P",
+    "usuario": "dpmAdmin",
+    "contraseña": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "cargo": "Encargado de vigilancia"
+  }
+]

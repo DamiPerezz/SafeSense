@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "CAM001",
+    "IP": "192.168.32.1",
+    "ubicacion": "Entrada"
+  },
+  {
+    "nombre": "CAM002",
+    "IP": "192.168.32.2",
+    "ubicacion": "Zona 1"
+  },
+  {
+    "nombre": "CAM003",
+    "IP": "192.168.32.3",
+    "ubicacion": "Zona 2"
+  },
+  {
+    "nombre": "CAM003",
+    "IP": "192.168.32.4",
+    "ubicacion": "Zona 3"
+  },
+  {
+    "nombre": "CAM004",
+    "IP": "192.168.32.5",
+    "ubicacion": "Zona 4"
+  },
+   {
+    "nombre": "CAM005",
+    "IP": "192.168.32.5",
+    "ubicacion": "Zona 5"
+  }
+]

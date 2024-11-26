@@ -1,0 +1,67 @@
+[
+  {
+    "usuario": "dpmTrabajo",
+    "solicitudes": [
+      {
+        "zona": "Entrada",
+        "infoCamara": {
+          "nombre": "CAM001",
+          "IP": "192.168.32.1",
+          "ubicacion": "Entrada",
+          "estado": "Aceptada"
+        }
+      },
+      {
+        "zona": "Zona 3",
+        "infoCamara": {
+          "nombre": "CAM003",
+          "IP": "192.168.32.4",
+          "ubicacion": "Zona 3",
+          "estado": "Aceptada"
+        }
+      }
+    ]
+  },
+  {
+    "usuario": "mariamaria",
+    "solicitudes": [
+      {
+        "zona": "Zona 3",
+        "infoCamara": {
+          "nombre": "CAM003",
+          "IP": "192.168.32.4",
+          "ubicacion": "Zona 3",
+          "estado": "Pendiente"
+        }
+      }
+    ]
+  },
+  {
+    "usuario": "mariamaria",
+    "solicitudes": [
+      {
+        "zona": "Zona 5",
+        "infoCamara": {
+          "nombre": "CAM005",
+          "IP": "192.168.32.5",
+          "ubicacion": "Zona 5",
+          "estado": "Pendiente"
+        }
+      }
+    ]
+  },
+  {
+    "usuario": "carlitosgarcia",
+    "solicitudes": [
+      {
+        "zona": "Entrada",
+        "infoCamara": {
+          "nombre": "CAM001",
+          "IP": "192.168.32.1",
+          "ubicacion": "Entrada",
+          "estado": "Pendiente"
+        }
+      }
+    ]
+  }
+]
