@@ -1,6 +1,6 @@
 # SafeSense: Sistema de Seguridad dirigido a Plantas de Oficinas
 
-![safesense-removebg-preview](https://github.com/user-attachments/assets/10f7e460-d790-4cf3-8365-0d7da344fbd0)
+![safesense-removebg-preview(1)](https://github.com/user-attachments/assets/76de8ea0-a8cb-4d94-8242-ed34f9a3d0f2)
 
 ## Resumen del Proyecto
 
