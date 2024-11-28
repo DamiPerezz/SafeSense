@@ -1,4 +1,7 @@
 # SafeSense: Sistema de Seguridad dirigido a Plantas de Oficinas
+
+![safesense-removebg-preview](https://github.com/user-attachments/assets/10f7e460-d790-4cf3-8365-0d7da344fbd0)
+
 ## Resumen del Proyecto
 
 **SafeSense** es un sistema diseñado para detectar presencias no autorizadas en edificios, oficinas y otros espacios de alta seguridad. Utiliza sensores y software especializado para identificar posibles intrusiones, alertar a los responsables y permitir una gestión efectiva de accesos y vigilancia.
