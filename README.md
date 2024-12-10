@@ -80,10 +80,10 @@ El sistema combina hardware como sensores RFID, cámaras y detectores de movimie
 
 Este proyecto fue desarrollado por estudiantes del grado en Ingeniería Informática de la Escuela de Arquitectura, Ingeniería y Diseño (curso 2023-2024):
 
-- **Damián Pérez Moreno:** Líder del proyecto y responsable de Hardware.
-- **Sahar Aman Mohammadi:** Especialista en gestión de datos y bases de datos.
-- **María Juárez Molera:** Diseñadora de interfaces y frontend.
-- **Iker Álamo Gómez de Segura:** Responsable de backend.
+- **Damián Pérez Moreno:** 
+- **Sahar Aman Mohammadi:** 
+- **María Juárez Molera:** 
+- **Iker Álamo Gómez de Segura:** 
 
 El equipo cuenta con experiencia previa en proyectos como **Click & Eat** y **EventRut**, aplicando tecnologías similares y destacándose por su capacidad de organización, uso eficiente de herramientas como GitHub y Trello, y documentación clara.
 
