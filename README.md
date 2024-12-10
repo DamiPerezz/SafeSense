@@ -8,6 +8,8 @@
 
 El sistema combina hardware como sensores RFID, cámaras y detectores de movimiento, con un backend que integra bases de datos y notificaciones en tiempo real. Además, incluye funcionalidades para gestionar roles de usuarios y mantener un registro detallado de eventos.
 
+Video de Presentación: https://drive.google.com/file/d/1-u4qytZMbFQa7iVtGujouD9AzNZGx0BK/view?usp=drive_link
+
 ---
 
 ## Funcionalidades Principales
